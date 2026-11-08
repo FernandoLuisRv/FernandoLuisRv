@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hola, soy Fernando Rojas 👋
 
-<!--
-**FernandoLuisRv/FernandoLuisRv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bachiller en Economía | Data Analytics | Econometría | Business Intelligence
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bachiller en Economía por la Universidad Católica Santo Toribio de Mogrovejo (USAT), con interés en el análisis de datos, la investigación económica y la aplicación de métodos estadísticos y econométricos para la toma de decisiones.
+
+Me interesa transformar datos en información útil mediante el análisis estadístico, la construcción de modelos econométricos y el desarrollo de dashboards.
+
+## Herramientas y tecnologías
+
+- **Análisis estadístico y econométrico:** Stata, R/RStudio y SPSS.
+- **Business Intelligence:** Power BI y Excel.
+- **Programación y análisis de datos:** Python y SQL.
+- **Entorno de desarrollo:** Visual Studio Code.
+
+## Áreas de interés
+
+- Análisis de datos.
+- Econometría aplicada.
+- Investigación económica.
+- Business Intelligence.
+- Visualización de datos.
+
+## Proyectos
+
+Próximamente publicaré proyectos relacionados con análisis económico, modelos econométricos y visualización de datos.
+
+## Contacto
+
+- **Correo:** Ferbando176@gmail.com
+- **Ubicación:** Perú.
